@@ -1,0 +1,1 @@
+red circle represents area with vignetting, yellow circles represent area where image was visible projected underneath the screen
